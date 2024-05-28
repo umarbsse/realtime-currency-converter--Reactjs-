@@ -1,0 +1,3 @@
+https://currencyapi.com/ (300 requests per month)
+https://exchangeratesapi.io/ (250 requests per month)
+https://forexrateapi.com/ (100 requests per month)
